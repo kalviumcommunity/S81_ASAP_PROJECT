@@ -1,6 +1,8 @@
  ### Project Title : The Most Unwanted Items Bought Online
 
-Project Overview : In this project where users can log in and share the most unwanted items they've purchased online. The purpose of the project is to create a light-hearted community where users can entertain at their buying habits.
+Project Overview : 
+
+   In this project where users can log in and share the most unwanted items they've purchased online. The purpose of the project is to create a light-hearted community where users can entertain at their buying habits.
 
  ### Key Features :
 
@@ -8,10 +10,10 @@ Project Overview : In this project where users can log in and share the most unw
 
 2.The users can post unwanted items they've bought, including
 
- * Item name
- * Description
- * Price
- * Photo upload
+ • Item name
+ • Description
+ • Price
+ • Photo upload
 3.They view a feed of all submissions, sorted by popularity or recency.
 
 4.Users can upvote, comment, and interact with other users' submissions
@@ -20,9 +22,9 @@ Project Overview : In this project where users can log in and share the most unw
 
  ### Tech stack :
 
-Frontend : HTML, CSS, Javascript, React.js
-Backend : Node.js
-Database : MongoDB
+ • Frontend : HTML, CSS, Javascript, React.js
+ • Database : MongoDB
+ • Backend : Node.js
 
  ### Why This Project :
 
